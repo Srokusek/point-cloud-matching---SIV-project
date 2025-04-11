@@ -1,2 +1,5 @@
-/opencv
-.venv/
+blainder-range-scanner
+/blender-3.3.5-linux-x64
+/saves
+dataset
+objects
